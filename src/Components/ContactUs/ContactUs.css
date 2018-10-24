@@ -1,0 +1,38 @@
+.contact-us {
+  padding-top: 3em;
+  background-color: white;
+  border: 1px solid lightgray;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-right: 10px;
+  margin-top: 30px;
+}
+
+.contact-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  padding: 10px;
+}
+
+.contact-info {
+  margin-bottom: 10px;
+}
+
+.contact-us-map {
+  margin-top: auto;
+  margin-bottom: auto;
+}
