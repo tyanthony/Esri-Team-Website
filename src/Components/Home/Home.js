@@ -22,7 +22,7 @@ class Home extends Component {
       <div className="whatWeDo">
         <p className="whatP">
           We at the Vienna R&amp;D Center strive to bring intelligent and useful ArcGIS software to a wide variety of teams and organizations. 
-          Ultimately, our goal is to provide helpful software that allows its users to successfully analyze and make decisions during critical moments.
+          Our goal is to provide software that allows users to successfully analyze and make decisions during critical moments and to communicate across their organization and teams.
         </p>
         <h3 className="whatTitle">What We Do</h3>
       </div>;
